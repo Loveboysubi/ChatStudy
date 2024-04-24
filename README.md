@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-### Name: Karthikeyan R
-### Reg.NO: 212222240046
+### Name: Subishesh P
+### Reg.NO: 212223230220
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
